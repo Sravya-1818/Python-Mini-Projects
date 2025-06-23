@@ -47,5 +47,4 @@ Building logic-based programs from scratch
 
 🙋‍♀️ Author
 Sravya Lakshmi Tulasi Valluri
-🔗 LinkedIn
-🐱 GitHub
+
